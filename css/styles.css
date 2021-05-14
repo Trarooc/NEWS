@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+footer.page{
+    width: 700px;
+    padding: 20px;
+    background: white;
+}
+.flex{
+    display: flex;
+}
+
+footer.page .part-1{
+    width: 50%;
+    margin-right: 20px;
+}
+
+footer.page h4{
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    color: rgb(8, 8, 8);
+    border-bottom: 1px solid #666;
+}
+
+footer.page p{
+    color: #0F5298;
+}
+footer.page a{
+    color: red;
+}
+footer.page .part-2{
+    width: 50%;
+}
+.info{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+h1{
+    border-bottom: yellowgreen;
+}
+
